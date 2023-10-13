@@ -13,4 +13,5 @@ Visual Studio Code HTML5 CSS3 JavaScript Node.js React Redux Express.js MongoDB 
 
 I'm open to collaborating on exciting projects, learning from experienced developers, and contributing fresh ideas to the coding community. Feel free to reach out if you're looking for a developer who's excited to make a difference.
 
-### 🔗 https://www.linkedin.com/in/carlos-cantillo-reyes-43a01b95/ ###📧 Email: ing.carloscantillo@gmail.com
+### 🔗 https://www.linkedin.com/in/carlos-cantillo-reyes-43a01b95/ 
+### 📧 Email: ing.carloscantillo@gmail.com
