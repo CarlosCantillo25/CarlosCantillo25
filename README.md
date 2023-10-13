@@ -6,7 +6,7 @@
 I'm a fullstack developer passionate about creating web and mobile solutions that make life easier and more enjoyable. Specializing in the MERN stack (MongoDB, Express.js, React, Node.js) and mobile apps with React Native, I'm excited to dive into coding challenges and create the best digital experiences.
 
 Languages and Tools 
-![html](https://github.com/CarlosCantillo25/CarlosCantillo25/assets/133810602/4247c41f-43e0-42dd-9cae-86ed234a06e0)
+ Visual Studio Code HTML5 CSS3 JavaScript Node.js React Redux Express.js MongoDB Postman Git GitHub 
 
 
 📬 Contact me:
